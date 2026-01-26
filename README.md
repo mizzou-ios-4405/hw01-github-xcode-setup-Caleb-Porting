@@ -5,7 +5,7 @@ Please read the full description of the assignment on Canvas or in the `Assignme
 After reading the instructions, update the information below as directed.
 
 
-Name:
+Name:Caleb Porting
 Course: INFOTC 4405 / CMP_SC 4405
-Section:
-Semester:
+Section:02
+Semester:Spring 2026
