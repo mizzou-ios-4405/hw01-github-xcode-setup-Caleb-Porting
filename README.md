@@ -7,5 +7,5 @@ After reading the instructions, update the information below as directed.
 
 Name:Caleb Porting
 Course: INFOTC 4405 / CMP_SC 4405
-Section:02
+Section:In-person
 Semester:Spring 2026
